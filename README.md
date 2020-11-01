@@ -1,4 +1,8 @@
-### Hi there 👋
+### RanKKI / Hugh Liu
+
+- Monash University
+- Bachelor of Computer Science
+- Internship at _Hortor Games_
 
 <!--
 **RanKKI/RanKKI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
