@@ -3,6 +3,7 @@
 - Monash University
 - Bachelor of Computer Science
 - Internship at _Hortor Games_
+- Blog [rankki.xyz](https://rankki.xyz)
 
 <!--
 **RanKKI/RanKKI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
