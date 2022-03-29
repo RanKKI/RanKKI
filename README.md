@@ -2,7 +2,6 @@
 
 - Monash University
 - Bachelor of Computer Science
-- Internship at _Hortor Games_
 - Blog [rankki.xyz](https://rankki.xyz)
 
 <!--
