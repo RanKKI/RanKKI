@@ -3,7 +3,7 @@
 - Monash University
 - Bachelor of Computer Science
 - Blog [rankki.xyz](https://rankki.xyz)
-- Contact me by rankki.dev@icloud.com
+- Contact me by `rankki.dev` + `@` + `icloud.com`
 
 <!--
 **RanKKI/RanKKI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
